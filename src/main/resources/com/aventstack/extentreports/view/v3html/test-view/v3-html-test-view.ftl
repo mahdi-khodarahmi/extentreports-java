@@ -1,7 +1,7 @@
 <div id='test-view' class='view'>
 	<section id='controls'>
 		<h5 style="text-align:center;color: #6897ff;">گزارش  سلنیوم</h5>
-		<h5 style="text-align:center;color: #29ec29;">بهسازان ملت - معاونت توسعه 5 - گروه کنترل کیفیت</h5>
+		<h5 style="text-align:center;color: #29ec29;">بهسازان ملت (معاونت توسعه 5 - گروه کنترل کیفیت)</h5>
 		<div class='controls grey lighten-4'>
 			<!-- test toggle -->
 			<div class='chip transparent'>
