@@ -11,9 +11,9 @@
 	<description>Extent Framework</description>
 
 	<scm>
-		<connection>scm:git:https://github.com/mahdi-khodarahmi/extentreports-java.git</connection>
-		<developerConnection>scm:git:https://github.com/mahdi-khodarahmi/extentreports-java.git</developerConnection>
-		<url>https://github.com/mahdi-khodarahmi/extentreports-java/tree/4.0.6</url>
+		<connection>scm:git:https://github.com/extent-framework/extentreports-java.git</connection>
+		<developerConnection>scm:git:https://github.com/extent-framework/extentreports-java.git</developerConnection>
+		<url>https://github.com/extent-framework/extentreports-java</url>
 	</scm>
 
 	<licenses>
@@ -25,9 +25,9 @@
 
 	<developers>
 		<developer>
-			<name>Mahdi Khodarahmi(forked from Anshoo Arora-->https://github.com/anshooarora)</name>
-			<url>https://github.com/mahdi-khodarahmi</url>
-			<id>mahdi-khodarahmi</id>
+			<name>Anshoo Arora (Customized By Mahdi Khodarahmi)</name>
+			<url>https://github.com/anshooarora</url>
+			<id>anshooarora</id>
 			<roles>
 				<role>Owner</role>
 			</roles>
