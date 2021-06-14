@@ -7,10 +7,10 @@
 	<meta name='robots' content='noodp, noydir' />
 	<meta name='viewport' content='width=device-width, initial-scale=1' />
 	<meta id="timeStampFormat" name="timeStampFormat" content='${timeStampFormat}'/>
-	
-	<link href='${ config.getValue('protocol') }://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css' />
-	<link href="${ config.getValue('protocol') }://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-	<link href='${ config.getValue('protocol') }://cdn.rawgit.com/extent-framework/extent-github-cdn/39026ad/v3html/css/extent.css' type='text/css' rel='stylesheet' />
+
+	<link href='extendReportsFiles/fonts.css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css' />
+	<link href="extendReportsFiles/icon.css?family=Material+Icons" rel="stylesheet" />
+	<link href='extendReportsFiles/extent.css' type='text/css' rel='stylesheet' />
 	
 	<title>${ config.getValue('documentTitle') }</title>
 
