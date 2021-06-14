@@ -11,7 +11,7 @@
 	<link href='extendReportsFiles/fonts.css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css' />
 	<link href="extendReportsFiles/icon.css?family=Material+Icons" rel="stylesheet" />
 	<link href='extendReportsFiles/extent.css' type='text/css' rel='stylesheet' />
-	
+
 	<title>${ config.getValue('documentTitle') }</title>
 
 	<style type='text/css'>

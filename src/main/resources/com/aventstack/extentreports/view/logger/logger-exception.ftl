@@ -14,7 +14,7 @@
 								<path d="M80 304h352v16H80zM80 248h352v16H80zM80 192h352v16H80z"/>
 							</svg>
 						</a>
-						<div class="navbar-text nav-title flex" id="pageTitle"><img src="logo.png"></div>
+						<div class="navbar-text nav-title flex" id="pageTitle"><img src="\logo.png"></div>
 					</div>
 				</div>
 				<div class="content-main d-flex flex" id="content-main">

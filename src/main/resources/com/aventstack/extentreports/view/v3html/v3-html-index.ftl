@@ -106,9 +106,9 @@
 		</script>
 		</#if>
 		<#if config.getValue('offline')?string == 'true'>
-		<script src='extent/js/extent.js' type='text/javascript'></script>
+		<script src='extendReportsFiles|/extent.js' type='text/javascript'></script>
 		<#else>
-		<script src='${ config.getValue('protocol') }://cdn.rawgit.com/extent-framework/extent-github-cdn/c23457b/v3html/js/extent.js' type='text/javascript'></script>
+			<script src='extendReportsFiles/extent.js' type='text/javascript'></script>
 		</#if>
 		<#assign hide=(chartVisibleOnOpen=='true')?then(false, true)>
 		<#if hide>
